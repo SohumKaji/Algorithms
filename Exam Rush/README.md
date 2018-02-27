@@ -14,6 +14,7 @@ The first line contains an integer number,  (number of chapters) and an integer 
 
 Constraints
 1 <= n, tm < 10^5
+
 1<= t <= 10^9
 
 Output Format
