@@ -1,6 +1,6 @@
-######################
-#Iterative Squareroot#
-######################
+**********************
+*Iterative Squareroot*
+**********************
 
 I was asked this question during an interview and I thought the implementation would be fun:
 
