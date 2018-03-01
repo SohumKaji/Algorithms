@@ -9,7 +9,6 @@ Check out the .pdf for a deeper explanation of the problem. Here are some sample
 Sample Input 0
 
 4 0
-
 4 4
 
 Sample Output 0
