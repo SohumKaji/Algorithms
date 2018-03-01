@@ -2,9 +2,9 @@
 *Queen's Attack II*
 *******************
 
-"Given the queen's position and the locations of all the obstacles, find and print the number of squares the queen can attack from her position."
+	"Given the queen's position and the locations of all the obstacles, find and print the number of squares the queen can attack from her position."
 
-Check out the .pdf for a deeper explanation of the problem. Here are some sample cases:
+####Check out the .pdf for a deeper explanation of the problem. Here are some sample cases:
 
 Sample Input 0
 
