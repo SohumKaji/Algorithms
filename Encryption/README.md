@@ -18,6 +18,8 @@ Sample Input:
 
 haveaniceday
 
+---
+
 Sample Output:
 
 hae and via ecy
