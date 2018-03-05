@@ -1,5 +1,5 @@
 *******************
-*Minimum Distances*
+#*Minimum Distances*
 *******************
 
 	"Consider an array of n integers, A. The distance between two indices, i and j, is denoted by d_ij = |i-j|.
@@ -9,12 +9,12 @@
 
 Check the .pdf for a more detailed explanatino of the problem. Here is a sample test-case:
 
->Sample Input
+*Sample Input
 	
 	"6
 	7 1 3 4 1 7"
 
->Sample Output
+*Sample Output
 
 	"3"
 
