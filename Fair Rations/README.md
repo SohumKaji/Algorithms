@@ -13,8 +13,8 @@
 		you can only give a loaf of bread each to two adjacent people at a time.
 			
 		2) After all the bread is distributed, each person must have an even number of loaves.
-			Given the number of loaves already held by each citizen, find and print the minimum number of 
-			loaves you must distribute to satisfy the two rules above. If this is not possible, print NO."
+		Given the number of loaves already held by each citizen, find and print the minimum number of 
+		loaves you must distribute to satisfy the two rules above. If this is not possible, print NO."
 
 
 Check the .pdf for more details. Here are the sample cases:
